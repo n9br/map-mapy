@@ -14,14 +14,19 @@ const map = new ol.Map({
 	layers: [
 		new ol.layer.Tile({
 			source: new ol.source.TileJSON({
-				url: `https://api.mapy.cz/v1/maptiles/basic/tiles.json?apikey=${API_KEY}`,
+				url: `https://api.mapy.cz/v1/maptiles/basic/tiles.json?apikey=${API_KEY}&lang=en`,
 			}),
 		}),
 	],
+
+	// 5.4134410&y=47.9675581&z=5	zoom Europe
 	target: 'map',
 	view: new ol.View({
-		center: ol.proj.fromLonLat([14.8981184, 49.8729317]),
-		zoom: 16,
+		// center: ol.proj.fromLonLat([14.8981184, 49.8729317]),
+		// zoom: 16,
+		center: ol.proj.fromLonLat([5.4134410, 47.9675581]),
+		zoom: 5
+		// lang: en
 	}),
 });
 
