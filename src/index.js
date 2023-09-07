@@ -1,7 +1,5 @@
 // replace with your own API key
-// const API_KEY = 'eyJpIjoyNTcsImMiOjE2Njc0ODU2MjN9.c_UlvdpHGTI_Jb-TNMYlDYuIkCLJaUpi911RdlwPsAY';
-const API_KEY = '6V2G4CDq1T7n1Aw_KHtg2Zj5QUiPwvk-EJeMM1RxEwI';
-// 6V2G4CDq1T7n1Aw_KHtg2Zj5QUiPwvk-EJeMM1RxEwI
+const API_KEY = 'eyJpIjoyNTcsImMiOjE2Njc0ODU2MjN9.c_UlvdpHGTI_Jb-TNMYlDYuIkCLJaUpi911RdlwPsAY';
 
 
 /*
