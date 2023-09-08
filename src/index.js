@@ -3,7 +3,6 @@
 const API_KEY = '6V2G4CDq1T7n1Aw_KHtg2Zj5QUiPwvk-EJeMM1RxEwI';
 
 
-
 /*
 We create the map with one tile layer and set its initial coordinates and zoom.
 See https://openlayers.org/en/latest/apidoc/module-ol_Map-Map.html
