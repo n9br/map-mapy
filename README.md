@@ -2,6 +2,6 @@
 map GeoJSON of European Cities
 
 # Howto run
-* npm init
-* npm i --save-dev parcel
+* npm init -y
+* npm i
 * npm start
