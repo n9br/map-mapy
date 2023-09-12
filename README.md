@@ -1,5 +1,5 @@
 # project-cities-map
-map GeoJSON of European Cities
+show a mapy map
 
 # Howto run
 * npm init -y
